@@ -6,8 +6,13 @@ import os
 import logging 
 from pathlib import Path
 
-# logging information
-logging.basicConfig(level=logging.INFO, format='[%(asctime)s]: %(message)s')
+# logging information at a specified path 
+dir_name = 'logs'
+os.makedirs(dir_name,exist_ok=True)
+log_path = os.path.join(dir_name,'logging_data.log')
+logging.basicConfig(level=logging.INFO, format='[%(asctime)s]: %(message)s', 
+                    handlers= [ logging.FileHandler(log_path)] 
+                    )
 project_name = 'mlops_stellar' 
 
 # List of folders, files that are needed

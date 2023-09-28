@@ -1,0 +1,29 @@
+[2023-09-28 12:54:49,324]: creating directory:.github\workflows for the file .gitkeep
+[2023-09-28 12:54:49,324]: creating empty file: .github\workflows\.gitkeep
+[2023-09-28 12:54:49,324]: creating directory:src\mlops_stellar for the file __init__.py
+[2023-09-28 12:54:49,324]: creating empty file: src\mlops_stellar\__init__.py
+[2023-09-28 12:54:49,324]: creating directory:src\mlops_stellar\components for the file __init__.py
+[2023-09-28 12:54:49,324]: creating empty file: src\mlops_stellar\components\__init__.py
+[2023-09-28 12:54:49,324]: creating directory:src\mlops_stellar\utils for the file __init__.py
+[2023-09-28 12:54:49,324]: __init__.py already exists
+[2023-09-28 12:54:49,324]: creating directory:src\mlops_stellar\utils for the file common.py
+[2023-09-28 12:54:49,324]: creating empty file: src\mlops_stellar\utils\common.py
+[2023-09-28 12:54:49,324]: creating directory:src\mlops_stellar\logging for the file __init__.py
+[2023-09-28 12:54:49,324]: creating empty file: src\mlops_stellar\logging\__init__.py
+[2023-09-28 12:54:49,324]: creating directory:src\mlops_stellar\config for the file __init__.py
+[2023-09-28 12:54:49,324]: creating empty file: src\mlops_stellar\config\__init__.py
+[2023-09-28 12:54:49,324]: creating directory:src\mlops_stellar\config for the file configuration.py
+[2023-09-28 12:54:49,324]: creating empty file: src\mlops_stellar\config\configuration.py
+[2023-09-28 12:54:49,324]: creating directory:src\mlops_stellar\pipeline for the file __init__.py
+[2023-09-28 12:54:49,324]: creating empty file: src\mlops_stellar\pipeline\__init__.py
+[2023-09-28 12:54:49,324]: creating directory:src\mlops_stellar\entity for the file __init__.py
+[2023-09-28 12:54:49,324]: creating empty file: src\mlops_stellar\entity\__init__.py
+[2023-09-28 12:54:49,324]: creating directory:src\mlops_stellar\constants for the file __init__.py
+[2023-09-28 12:54:49,324]: creating empty file: src\mlops_stellar\constants\__init__.py
+[2023-09-28 12:54:49,324]: creating directory:config for the file config.yaml
+[2023-09-28 12:54:49,324]: creating empty file: config\config.yaml
+[2023-09-28 12:54:49,324]: creating empty file: params.yaml
+[2023-09-28 12:54:49,324]: creating empty file: app.py
+[2023-09-28 12:54:49,324]: creating empty file: Dockerfile
+[2023-09-28 12:54:49,324]: creating empty file: requirements.txt
+[2023-09-28 12:54:49,324]: creating empty file: setup.py
