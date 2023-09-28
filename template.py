@@ -1,3 +1,7 @@
+''' 
+    Creates the folder structure 
+'''
+
 import os 
 import logging 
 from pathlib import Path
@@ -29,7 +33,7 @@ list_of_files = [
 ]
 
 '''
-    Creating a CI/CD pipeline
+    Creating a CI/CD pipeline 
 '''
 
 for filepath in list_of_files:
