@@ -1,0 +1,5 @@
+[core]
+    remote = stellarml
+['remote "stellarml"']
+    url = gs://stellarml
+    credentialpath = ../dvclab-5082d7e4b6c4.json
