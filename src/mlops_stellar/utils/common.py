@@ -10,6 +10,7 @@ from pathlib import Path
 from box import ConfigBox
 from ensure import ensure_annotations 
 from box.exceptions import BoxValueError 
+import base64
 
 
 
